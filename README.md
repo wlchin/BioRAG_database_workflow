@@ -16,7 +16,7 @@ The following packages are required:
 4. scikit-learn - to create transcriptomic embeddings from hdf5 ARCHS4 files
 4. numpy - for persistence of transformed, memory-mapped count data
 5. pandas - for data preproceesing of GEO metadata
-6. snakemakem - for worfklow construction.
+6. snakemake - for worfklow construction.
 
 ### Running the workflow
 
